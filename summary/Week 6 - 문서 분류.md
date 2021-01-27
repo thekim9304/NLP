@@ -1,3 +1,5 @@
+[본문 Week6](https://jiho-ml.com/weekly-nlp-6/)
+
 - NLP 분야에서 문서를 주제별로 분류하는 것을 document(text) classification이라고 한다.
 
 ## Binary Classification

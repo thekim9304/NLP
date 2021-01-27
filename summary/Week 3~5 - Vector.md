@@ -1,3 +1,7 @@
+[본문 Week3](https://jiho-ml.com/weekly-nlp-3/)
+[본문 Week4](https://jiho-ml.com/weekly-nlp-4/)
+[본문 Week5](https://jiho-ml.com/weekly-nlp-5/)
+
 Week3 - Vector의 기초 개념을 다룬다.
 Week4 - 단어를 또다른 방식의 vector로 표현한 word embedding
 Week5 - vector 간의 비슷함과 거리감을 계산하는 방법
